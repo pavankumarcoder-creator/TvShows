@@ -12,9 +12,6 @@ It lists three favorite games:
 
 Each game has its own dedicated page with an image and description.
 
----
-
----
 
 ## 🖥️ Pages
 
