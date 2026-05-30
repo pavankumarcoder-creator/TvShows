@@ -14,21 +14,6 @@ Each game has its own dedicated page with an image and description.
 
 ---
 
-## 📂 Project Structure
-My-Favorite-Games/
-│
-├── index.html
-├── html/
-│ ├── basketball.html
-│ ├── chess.html
-│ └── cricket.html
-│
-└── Images/
-├── basketball.jpg
-├── chess.jpg
-└── cricket.jpg
-
-
 ---
 
 ## 🖥️ Pages
